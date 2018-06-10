@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">softnextdoor</string>
+    <string name="comment_name">Comment Name</string>
+    <string name="comment_email">Comment Email</string>
+    <string name="comment_body">Comment Body</string>
+    <string name="post_tittle">Post Tittle</string>
+    <string name="post_body">Post Body</string>
+</resources>
